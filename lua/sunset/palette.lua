@@ -78,6 +78,6 @@ M.palette = function ()
 		['ma']     = base_colors['sunset-magenta-400'],
 		['ma-2']   = base_colors['sunset-magenta-600'],
 	}
-nd
+end
 
 return M
